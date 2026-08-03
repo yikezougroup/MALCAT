@@ -1,0 +1,2 @@
+Because the memory of esm2_t36_3B_UR50D is too large, you can download it to the specified location using the link below, and you will successfully run the specified script.
+> esm2_t36_3B_UR50D https://huggingface.co/facebook/esm2_t36_3B_UR50D

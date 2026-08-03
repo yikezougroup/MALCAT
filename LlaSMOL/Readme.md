@@ -1,0 +1,2 @@
+Because the memory of esm2_t36_3B_UR50D is too large, you can download it to the specified location using the link below, and you will successfully run the specified script.
+>LlaSMol-Mistral-7B: https://huggingface.co/osunlp/LlaSMol-Mistral-7BLlaSMol-Mistral-7B is an LLM for chemistry. It is based on mistralai/Mistral-7B-v0.1 https://huggingface.co/mistralai/Mistral-7B-v0.1 and tuned on our SMolInstruct dataset with LoRA. This repo contains the weight of the low-rank adapter. 
