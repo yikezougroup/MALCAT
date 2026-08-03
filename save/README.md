@@ -1,1 +1,0 @@
-When you successfully run Python Train_model.py, you will save the model weight best_model.pth and checkpoint.pth.
