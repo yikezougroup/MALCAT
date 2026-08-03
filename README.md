@@ -210,7 +210,8 @@ Data segmentation
 ```bash
 python split.py
 ```
-Data augmentation
+Data augmentation:
+
 We used the work of "SMILES enumeration as Data Augmentation for Network Modeling of Molecules" https://github.com/EBjerrum/SMILES-enumeration for reference and enhanced the data of cyclic peptides.
 ```bash
 python SMILES-enumeration/SmilesEnumerator.py
