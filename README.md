@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/status-research%20prototype-orange)
 
 ## Project Overview
-![MALCAT_model](image/model.png)
+
 
 MALCAT is a multimodal deep-learning project for **regression-based prediction of cyclic peptide–protein binding affinity**. The model jointly uses the following four types of information:
 
@@ -41,7 +41,7 @@ The project uses locally deployed **LlaSMOL/Mistral-7B** to encode SMILES and **
 ---
 
 ## Model Architecture
-
+![MALCAT_model](image/model.png)
 
 
 ---
