@@ -1,1 +1,0 @@
-When you successfully run Python Train_model.py, the evaluation index of 600epochs of the model will be stored here as a csv file.
